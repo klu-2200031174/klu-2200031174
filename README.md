@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aashritha%20Jammula&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20developer%20·%20LLM%20evaluation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aashritha%20Jammula&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20developer%20·%20LLM%20evaluation&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/aashrithajammula">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
