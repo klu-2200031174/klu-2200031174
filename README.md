@@ -78,8 +78,8 @@ of its apparent improvement was an artifact of how it was being judged.
 
 ### twitter-support-agent
 
-LLM support-triage over **2.8M tweets** across 93 brands. Two-stage pipeline:
-intent classification, then drafted reply.
+Support triage and reply drafting for @AmazonHelp, on the Customer Support on
+Twitter dataset (2.8M tweets). Two stages: intent classification, then reply.
 
 **0.797 macro-F1** on intent — but the finding I care about is that a blinded
 ablation showed ~77% of the headline gain was judge bias, retrieved context
@@ -133,17 +133,6 @@ Running log of data structures and algorithms practice, organised by month.
 </td>
 </tr>
 </table>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=klu-2200031174&show_icons=true&hide_border=true&title_color=667eea&icon_color=764ba2&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klu-2200031174&layout=compact&hide_border=true&title_color=667eea&bg_color=0d1117&text_color=c9d1d9&langs_count=8"/>
-
-</div>
 
 <br/>
 
